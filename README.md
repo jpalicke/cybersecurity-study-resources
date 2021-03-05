@@ -44,3 +44,6 @@ not an expert.
   [pwntools docs](https://docs.pwntools.com/en/stable/#)  
   [scapy docs](https://scapy.readthedocs.io/en/latest/)  
   
+### Lists of links  
+  [Andrei Clinciu](https://andreiclinciu.net/how-to-start-learning-to-become-a-white-hacker-and-sites-for-improving-your-hacking-and-cyber-security-skills)  
+  [razvioverflow](https://razvioverflow.github.io/starthacking)  
