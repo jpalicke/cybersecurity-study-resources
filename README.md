@@ -4,6 +4,7 @@ Much will be basic stuff everyone knows, since...well, I know about it, and I'm
 not an expert.
 
 ### Classes / Guided Wargames  
+  [CTF Field Guide / trailofbits](https://trailofbits.github.io/ctf/)  
   [Pentester Lab Bootcamp](https://www.pentesterlab.com/bootcamp)  
   [hacker101](https://www.hacker101.com/) - Video lessons and CTF levels  
   [PortSwigger Web Security Academy](https://portswigger.net/web-security) - Instructional materal with labs  
